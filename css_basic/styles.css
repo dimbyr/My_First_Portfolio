@@ -18,3 +18,7 @@ aside {
   flex: 1;
   overflow-y: auto;
 }
+
+header, footer {
+  background-color: azure;
+}
